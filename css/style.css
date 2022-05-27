@@ -19,14 +19,15 @@ body{
 }
 
 h1{
-    padding:20px;
+    margin:20px 0 20px 0;
+    font-size: 36px;
     color: #E53170;
 }
 
 .column{
     margin: 0 auto;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 30px;
     height: fit-content;
 }
 
@@ -42,7 +43,7 @@ h1{
     float: left;
     width: calc(100% / 3 - 15px);
     margin-left: 15px;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 
