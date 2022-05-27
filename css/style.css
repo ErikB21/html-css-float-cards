@@ -45,11 +45,6 @@ h1{
     margin-top: 40px;
 }
 
-.clearfix::after{
-    content: "";
-    display: table;
-    clear: both;
-}
 
 img{
     float: left;
